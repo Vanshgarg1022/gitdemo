@@ -1,6 +1,6 @@
 this is git demo file1.
 
-			from main 
+from main 
 
-	from feature 
+from feature 
 
